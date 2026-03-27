@@ -1,2 +1,2 @@
-# bottle_login_app
-Python web framework Bottle based app for logic capabilities
+# bottle_base
+bottle_base
